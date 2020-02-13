@@ -1,9 +1,9 @@
 class CasperlabsEngine < Formula
   desc "Rust engine for the CasperLabs platform."
   homepage "www.casperlabs.io"
-  version "0.11.0"
+  version "0.12.0"
   url "https://github.com/CasperLabs/CasperLabs/releases/download/v#{version}/casperlabs-engine-grpc-server-#{version}_darwin_i386.tar.gz"
-  sha256 "d93d13ca5a0b673ae8312572f29af39583974792cb0ab3f54912cebff32512ae"
+  sha256 "eb02afe6f4104eaf8dc975f5bb998baa08af18a25d592985a286770980c6c82f"
 
   JAVA_VERSION = "1.10+"
 
