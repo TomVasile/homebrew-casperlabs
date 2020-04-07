@@ -1,9 +1,9 @@
 class CasperlabsClient < Formula
   desc "Scala client for the CasperLabs platform."
   homepage "www.casperlabs.io"
-  version "0.15.0"
+  version "0.18.0"
   url "https://github.com/CasperLabs/CasperLabs/releases/download/v#{version}/casperlabs-client-#{version}.tgz"
-  sha256 "ee7b80e2791412ea81ef5fdae6f556f2a5e73300437a0031e9239809fbae41e1"
+  sha256 "167ea9251701e261f84c5246d4f72370c60880571d23a6a37d7e8a1d751d31dd"
 
   JAVA_VERSION = "1.10+"
 
