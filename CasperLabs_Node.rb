@@ -1,9 +1,9 @@
 class CasperlabsNode < Formula
   desc "Scala node for the CasperLabs platform."
   homepage "www.casperlabs.io"
-  version "0.17.0"
+  version "0.18.0"
   url "https://github.com/CasperLabs/CasperLabs/releases/download/v#{version}/casperlabs-node-#{version}.tgz"
-  sha256 "c8d8974b1d8efb2fd658bd1876c1e1f21295a927314306b627905cfa94fdc07d"
+  sha256 "d9a775ea55235b2325ead4e9c7feab1d68793c4a9eee1ccf4cdbd10a37cf5623"
 
   JAVA_VERSION = "1.10+"
 
